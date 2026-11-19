@@ -344,6 +344,7 @@ a {
   gap: 0.3125rem;
 }
 
+/* !attribution */
 .attribution {
   font-size: 0.75rem;
   color: var(--clr-white);
