@@ -17,8 +17,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html-css-and-javascript-4H7Mb5mMis)
+- Live Site URL: [GitHub Pages](https://rebeccadoesweb.github.io/nft-preview-card-component/)
 
 ## My process
 
